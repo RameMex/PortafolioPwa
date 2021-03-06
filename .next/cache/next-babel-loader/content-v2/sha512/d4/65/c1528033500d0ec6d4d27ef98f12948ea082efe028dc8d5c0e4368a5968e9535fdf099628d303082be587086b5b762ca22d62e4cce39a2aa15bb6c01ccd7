@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { enhancePrisma } from \"@blitzjs/core\";\nimport { PrismaClient } from \"@prisma/client\";\nconst EnhancedPrisma = enhancePrisma(PrismaClient);\nexport * from \"@prisma/client\";\nexport default new EnhancedPrisma();","map":null,"metadata":{},"sourceType":"module"}

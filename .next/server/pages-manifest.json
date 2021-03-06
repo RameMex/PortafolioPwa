@@ -1,0 +1,18 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/auth/mutations/changePassword": "pages/api/auth/mutations/changePassword.js",
+  "/api/auth/mutations/forgotPassword": "pages/api/auth/mutations/forgotPassword.js",
+  "/api/auth/mutations/login": "pages/api/auth/mutations/login.js",
+  "/api/auth/mutations/logout": "pages/api/auth/mutations/logout.js",
+  "/api/auth/mutations/resetPassword": "pages/api/auth/mutations/resetPassword.js",
+  "/api/auth/mutations/signup": "pages/api/auth/mutations/signup.js",
+  "/api/users/queries/getCurrentUser": "pages/api/users/queries/getCurrentUser.js",
+  "/forgot-password": "pages/forgot-password.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/reset-password": "pages/reset-password.html",
+  "/signup": "pages/signup.html",
+  "/_error": "pages/_error.js"
+}
