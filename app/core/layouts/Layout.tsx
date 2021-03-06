@@ -9,11 +9,6 @@ type LayoutProps = {
 const Layout = ({ title, children }: LayoutProps) => {
   return (
     <>
-      <Head>
-        <title>{title || "Portafolio"}</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       {children}
     </>
   )
