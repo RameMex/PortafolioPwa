@@ -39,12 +39,12 @@
     "react-final-form": "6.5.2",
     "tailwindcss": "2",
     "typescript": "~4.1",
-    "zod": "1.11.11",
-    "webpack": "^4.46.0"
+    "zod": "1.11.11"
   },
   "devDependencies": {
+    "webpack": "^4.46.0",
     "@babel/core": "7.12.10",
-    "@babel/preset-env": "7.13.9",
+    "@babel/preset-env": "7.12.11",
     "@types/preview-email": "2.0.0",
     "@types/react": "17.0.2",
     "autoprefixer": "10",
